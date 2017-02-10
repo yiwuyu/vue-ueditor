@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <!-- <img src="./assets/logo.png"> -->
+    <router-link to="/ueditor">Go to editor!</router-link>
     <router-view></router-view>
   </div>
 </template>
