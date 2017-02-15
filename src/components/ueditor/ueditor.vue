@@ -168,7 +168,7 @@
 	import '../../../static/ueditor/lang/zh-cn/zh-cn';
 	import ywyFontSize from 'components/toolbuttons/fontSize';
 	import ywyToolSelect from 'components/toolbuttons/toolSelect';
-	import Clickoutside from 'element-ui/src/utils/clickoutside';
+	import Clickoutside from 'element-ui/lib/utils/clickoutside';
 
 	export default {
 		name: 'ywy_edui',

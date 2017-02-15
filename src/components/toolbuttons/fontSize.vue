@@ -16,7 +16,7 @@
 </template>
 
 <script type="text/ecmascript-6">
-	import Clickoutside from 'element-ui/src/utils/clickoutside';
+	import Clickoutside from 'element-ui/lib/utils/clickoutside';
 	export default {
 		props: {
 			fontSize: String,
